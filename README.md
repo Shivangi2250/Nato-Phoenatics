@@ -1,2 +1,2 @@
 # Nato-Phoenatics
-Python small program using tkinter module.
+Python small program using pandas.
